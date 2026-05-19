@@ -62,9 +62,3 @@ A collection of Operating Systems lab experiments, algorithms, shell scripts, an
 - Memory Management
 - Page Replacement Algorithms
 
----
-
-## 🚀 Developed For
-
-Operating Systems Laboratory  
-B.Tech Information Technology
